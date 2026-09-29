@@ -1,0 +1,7 @@
+[
+  {"order_id":"ORD-1001","customer_id":"CUS-001","restaurant_name":"Green Bowl Kitchen","items":["Paneer Bowl","Fresh Lime"],"total_amount":320.0,"status":"Preparing","estimated_delivery":"2026-09-29 19:30","created_at":"2026-09-29 18:45"},
+  {"order_id":"ORD-1002","customer_id":"CUS-002","restaurant_name":"Green Bowl Kitchen","items":["Veg Biryani","Raita"],"total_amount":280.0,"status":"Out for Delivery","estimated_delivery":"2026-09-29 19:15","created_at":"2026-09-29 18:20"},
+  {"order_id":"ORD-1003","customer_id":"CUS-003","restaurant_name":"Green Bowl Kitchen","items":["Margherita Pizza","Iced Tea"],"total_amount":450.0,"status":"Delivered","estimated_delivery":"2026-09-29 18:40","created_at":"2026-09-29 17:50"},
+  {"order_id":"ORD-1004","customer_id":"CUS-004","restaurant_name":"Green Bowl Kitchen","items":["Chicken Wrap","Fries"],"total_amount":390.0,"status":"Confirmed","estimated_delivery":"2026-09-29 20:00","created_at":"2026-09-29 19:00"},
+  {"order_id":"ORD-1005","customer_id":"CUS-005","restaurant_name":"Green Bowl Kitchen","items":["Masala Dosa","Cold Coffee"],"total_amount":260.0,"status":"Out for Delivery","estimated_delivery":"2026-09-29 19:25","created_at":"2026-09-29 18:35"}
+]
